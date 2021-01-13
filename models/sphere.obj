@@ -1,0 +1,17 @@
+# Wavefront OBJ exported by MilkShape 3D
+
+v 0.03 0.07 0
+v 0.07 0.03 0
+v 0.07 0.11 0
+v 0.06 0.07 0.1
+v 0.11 0.01 0.1
+v 0.08 0.09 0.1
+# 6 vertices
+
+g Box01
+f 1 2 3
+f 4 5 6
+# 36 triangles in group
+
+# 36 triangles total
+
